@@ -1,0 +1,5 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:VisualElement style="flex-grow: 1; bottom: 0; left: 0; right: 0; position: absolute;">
+        <engine:Button text="Restart" name="RestartButton" style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0); bottom: 0; left: 0; right: 0; position: absolute; font-size: 50px; margin-right: 500px; margin-left: 500px; margin-bottom: 200px;" />
+    </engine:VisualElement>
+</engine:UXML>
